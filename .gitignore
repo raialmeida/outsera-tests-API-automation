@@ -1,0 +1,14 @@
+# Arquivos de compilação
+target/
+
+# Arquivos de projeto
+.idea/
+.classpath
+.project
+allure-results
+.allure
+.settings/
+.vscode
+
+# Arquivos de log
+*.log
