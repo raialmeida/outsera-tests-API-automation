@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 1. Para instalar no repositório local, utilize o seguinte comando:
 
 ```
-mvn install
+mvn compile
 ```
 3. Para executar os testes, utilize o seguinte comando:
 
