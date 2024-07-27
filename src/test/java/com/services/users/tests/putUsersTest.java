@@ -8,8 +8,10 @@ import org.junit.jupiter.api.Test;
 import com.services.users.payloads.putUsersPayloads;
 import com.services.users.requests.putUsersRequest;
 
+import Config.TestConfig;
+
 @DisplayName("Testes da rota PUT /users")
-public class putUsersTest {
+public class putUsersTest extends TestConfig{
 
     String latitude = "-45.8129";
     String longitude = "84.5342";
