@@ -8,7 +8,7 @@ Oferece uma API fluente e fácil de usar para fazer requisições HTTP.
 
 Antes de começar, certifique-se de ter o seguinte instalado:
 
-- [Java Development Kit (JDK)](https://www.oracle.com/br/java/technologies/downloads/)
+- [Java Development Kit (JDK)](https://www.oracle.com/br/java/technologies/downloads/) - Recomendo JDK 17
 - [Apache Maven](https://maven.apache.org/download.cgi)
 
 ## Configuração
